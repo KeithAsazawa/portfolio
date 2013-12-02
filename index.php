@@ -63,7 +63,7 @@
 <script src="_include/js/modernizr.js"></script>
 
 <!-- Analytics -->
-// <script type="text/javascript">
+<script type="text/javascript">
 
 //   var _gaq = _gaq || [];
 //   _gaq.push(['_setAccount', 'Insert Your Code']);
