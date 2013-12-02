@@ -63,19 +63,19 @@
 <script src="_include/js/modernizr.js"></script>
 
 <!-- Analytics -->
-<script type="text/javascript">
+// <script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'Insert Your Code']);
-  _gaq.push(['_trackPageview']);
+//   var _gaq = _gaq || [];
+//   _gaq.push(['_setAccount', 'Insert Your Code']);
+//   _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+//   (function() {
+//     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+//     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+//     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+//   })();
 
-</script>
+// </script>
 <!-- End Analytics -->
 
 </head>
@@ -198,38 +198,38 @@
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
-                        	<li class="item-thumbs span3 video">
-                            	<!-- Fancybox Media - Gallery Enabled - Title - Link to Video -->
-                            	<a class="hover-wrap fancybox-media" data-fancybox-group="video" title="Video Content From Vimeo" href="http://vimeo.com/51460511">
-                                	<span class="overlay-img"></span>
+                            <li class="item-thumbs span3 photography">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="AVO Clear Bra" href="_include/img/work/full/full-image-04.png">
+                                    <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-08.jpg" alt="Video">
+                                <img src="_include/img/work/thumbs/image-04.png" alt="Static HTML website built for AVO Clear Bra in Walnut Creek.">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
-                        	<li class="item-thumbs span3 photography">
-                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="The Sea" href="_include/img/work/full/image-04-full.jpg">
-                                	<span class="overlay-img"></span>
+                            <li class="item-thumbs span3 photography">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="AVO Clear Bra" href="_include/img/work/full/full-image-04.png">
+                                    <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-04.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="_include/img/work/thumbs/image-04.png" alt="Static HTML website built for AVO Clear Bra in Walnut Creek.">
                             </li>
                         	<!-- End Item Project -->
                             
 							<!-- Item Project and Filter Name -->
-                        	<li class="item-thumbs span3 photography">
-                            	<!-- Fancybox - Gallery Enabled - Title - Full Image -->
-                            	<a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Clouds" href="_include/img/work/full/image-05-full.jpg">
-                                	<span class="overlay-img"></span>
+                            <li class="item-thumbs span3 photography">
+                                <!-- Fancybox - Gallery Enabled - Title - Full Image -->
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="AVO Clear Bra" href="_include/img/work/full/full-image-04.png">
+                                    <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
                                 <!-- Thumb Image and Description -->
-                                <img src="_include/img/work/thumbs/image-05.jpg" alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus quis elementum odio. Curabitur pellentesque, dolor vel pharetra mollis.">
+                                <img src="_include/img/work/thumbs/image-04.png" alt="Static HTML website built for AVO Clear Bra in Walnut Creek.">
                             </li>
                         	<!-- End Item Project -->
                             
@@ -344,7 +344,7 @@
                         <br>
                         3330 Robinson Dr.
                         <br>
-                        Oakland, CA
+                        Oakland, CA 94602
                     </li>
                 </ul>
             </div>
@@ -379,10 +379,10 @@
             <div class="span12">
                 <nav id="social">
                     <ul>
-                        <li><a href="https://twitter.com/Bluxart" title="Follow Me on Twitter" target="_blank"><span class="font-icon-social-twitter"></span></a></li>
-                        <li><a href="https://www.facebook.com/Bluxart" title="Follow Me on Facebook" target="_blank"><span class="font-icon-social-facebook"></span></a></li>
+                        <li><a href="https://twitter.com/andkeithsaid" title="Follow Me on Twitter" target="_blank"><span class="font-icon-social-twitter"></span></a></li>
+                        <li><a href="https://www.facebook.com/keithasazawa" title="Follow Me on Facebook" target="_blank"><span class="font-icon-social-facebook"></span></a></li>
                         <li><a href="https://plus.google.com/105500420878314068694" title="Follow Me on Google Plus" target="_blank"><span class="font-icon-social-google-plus"></span></a></li>
-                        <li><a href="http://www.linkedin.com/in/alessioatzeni" title="Follow Me on LinkedIn" target="_blank"><span class="font-icon-social-linkedin"></span></a></li>
+                        <li><a href="http://www.linkedin.com/in/keithasazawa" title="Follow Me on LinkedIn" target="_blank"><span class="font-icon-social-linkedin"></span></a></li>
                     </ul>
                 </nav>
             </div>
