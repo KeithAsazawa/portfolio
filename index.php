@@ -150,7 +150,7 @@
                                     <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
-                                <img src="_include/img/work/thumbs/image-10.jpg" alt="Parkwoods Condos site built with Ruby on Rails."> <a href="http://parkwoodcondos.com">TFA</a>
+                                <img src="_include/img/work/thumbs/image-10.jpg" alt="Parkwoods Condos site built with Ruby on Rails. http://parkwoodcondos.com">
                             </li>
                         </ul>
                     </section>
