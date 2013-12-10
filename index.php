@@ -146,11 +146,11 @@
                                 <img src="_include/img/work/thumbs/image-05.jpg" alt="Some sample weekly Team Fast Agents Newsletter headers created using Photoshop.">
                             </li>
                             <li class="item-thumbs span3 photography">
-                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="AVO Clear Bra" href="_include/img/work/full/full-image-04.png">
+                                <a class="hover-wrap fancybox" data-fancybox-group="gallery" title="Parkwoods Condos" href="_include/img/work/full/full-image-06.jpg">
                                     <span class="overlay-img"></span>
                                     <span class="overlay-img-thumb font-icon-plus"></span>
                                 </a>
-                                <img src="_include/img/work/thumbs/image-04.png" alt="Static HTML website built for AVO Clear Bra in Walnut Creek.">
+                                <img src="_include/img/work/thumbs/image-10.jpg" alt="Parkwoods Condos site built with Ruby on Rails."> <a href="http://parkwoodcondos.com">TFA</a>
                             </li>
                         </ul>
                     </section>
